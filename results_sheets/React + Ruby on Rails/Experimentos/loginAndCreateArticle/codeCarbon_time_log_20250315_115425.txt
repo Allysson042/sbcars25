@@ -1,0 +1,675 @@
+Data e Hora de Início: 2025-03-15 11:54:25.672566
+
+=== Processos em Execução ===
+PID: 1, Nome: systemd, Usuário: root
+PID: 2, Nome: kthreadd, Usuário: root
+PID: 3, Nome: pool_workqueue_release, Usuário: root
+PID: 4, Nome: kworker/R-rcu_g, Usuário: root
+PID: 5, Nome: kworker/R-rcu_p, Usuário: root
+PID: 6, Nome: kworker/R-slub_, Usuário: root
+PID: 7, Nome: kworker/R-netns, Usuário: root
+PID: 8, Nome: kworker/0:0-cgroup_destroy, Usuário: root
+PID: 9, Nome: kworker/0:0H-events_highpri, Usuário: root
+PID: 10, Nome: kworker/0:1-cgroup_destroy, Usuário: root
+PID: 12, Nome: kworker/R-mm_pe, Usuário: root
+PID: 13, Nome: rcu_tasks_kthread, Usuário: root
+PID: 14, Nome: rcu_tasks_rude_kthread, Usuário: root
+PID: 15, Nome: rcu_tasks_trace_kthread, Usuário: root
+PID: 16, Nome: ksoftirqd/0, Usuário: root
+PID: 17, Nome: rcu_preempt, Usuário: root
+PID: 18, Nome: migration/0, Usuário: root
+PID: 19, Nome: idle_inject/0, Usuário: root
+PID: 20, Nome: cpuhp/0, Usuário: root
+PID: 21, Nome: cpuhp/1, Usuário: root
+PID: 22, Nome: idle_inject/1, Usuário: root
+PID: 23, Nome: migration/1, Usuário: root
+PID: 24, Nome: ksoftirqd/1, Usuário: root
+PID: 26, Nome: kworker/1:0H-events_highpri, Usuário: root
+PID: 27, Nome: cpuhp/2, Usuário: root
+PID: 28, Nome: idle_inject/2, Usuário: root
+PID: 29, Nome: migration/2, Usuário: root
+PID: 30, Nome: ksoftirqd/2, Usuário: root
+PID: 31, Nome: kworker/2:0-cgroup_destroy, Usuário: root
+PID: 32, Nome: kworker/2:0H-kblockd, Usuário: root
+PID: 33, Nome: cpuhp/3, Usuário: root
+PID: 34, Nome: idle_inject/3, Usuário: root
+PID: 35, Nome: migration/3, Usuário: root
+PID: 36, Nome: ksoftirqd/3, Usuário: root
+PID: 37, Nome: kworker/3:0-events, Usuário: root
+PID: 38, Nome: kworker/3:0H-events_highpri, Usuário: root
+PID: 39, Nome: kdevtmpfs, Usuário: root
+PID: 40, Nome: kworker/R-inet_, Usuário: root
+PID: 42, Nome: kauditd, Usuário: root
+PID: 43, Nome: kworker/1:1-cgroup_destroy, Usuário: root
+PID: 44, Nome: khungtaskd, Usuário: root
+PID: 45, Nome: oom_reaper, Usuário: root
+PID: 46, Nome: kworker/u8:2-events_unbound, Usuário: root
+PID: 47, Nome: kworker/R-write, Usuário: root
+PID: 48, Nome: kcompactd0, Usuário: root
+PID: 49, Nome: ksmd, Usuário: root
+PID: 50, Nome: khugepaged, Usuário: root
+PID: 51, Nome: kworker/R-kinte, Usuário: root
+PID: 52, Nome: kworker/R-kbloc, Usuário: root
+PID: 53, Nome: kworker/R-blkcg, Usuário: root
+PID: 54, Nome: irq/9-acpi, Usuário: root
+PID: 55, Nome: kworker/2:1-i915-unordered, Usuário: root
+PID: 56, Nome: kworker/R-tpm_d, Usuário: root
+PID: 57, Nome: kworker/R-ata_s, Usuário: root
+PID: 58, Nome: kworker/R-md, Usuário: root
+PID: 59, Nome: kworker/R-md_bi, Usuário: root
+PID: 60, Nome: kworker/R-edac-, Usuário: root
+PID: 61, Nome: kworker/R-devfr, Usuário: root
+PID: 62, Nome: watchdogd, Usuário: root
+PID: 64, Nome: kworker/0:1H-kblockd, Usuário: root
+PID: 65, Nome: kswapd0, Usuário: root
+PID: 66, Nome: ecryptfs-kthread, Usuário: root
+PID: 67, Nome: kworker/R-kthro, Usuário: root
+PID: 68, Nome: kworker/R-acpi_, Usuário: root
+PID: 69, Nome: hwrng, Usuário: root
+PID: 71, Nome: kworker/R-mld, Usuário: root
+PID: 72, Nome: kworker/R-ipv6_, Usuário: root
+PID: 79, Nome: kworker/R-kstrp, Usuário: root
+PID: 94, Nome: kworker/R-charg, Usuário: root
+PID: 113, Nome: kworker/3:1H-kblockd, Usuário: root
+PID: 117, Nome: kworker/1:1H-kblockd, Usuário: root
+PID: 137, Nome: kworker/2:1H, Usuário: root
+PID: 152, Nome: scsi_eh_0, Usuário: root
+PID: 153, Nome: kworker/R-scsi_, Usuário: root
+PID: 155, Nome: kworker/u8:3-events_power_efficient, Usuário: root
+PID: 156, Nome: scsi_eh_1, Usuário: root
+PID: 157, Nome: kworker/R-scsi_, Usuário: root
+PID: 158, Nome: scsi_eh_2, Usuário: root
+PID: 159, Nome: kworker/R-scsi_, Usuário: root
+PID: 167, Nome: kworker/u8:5-events_unbound, Usuário: root
+PID: 168, Nome: irq/133-ELAN0501:01, Usuário: root
+PID: 177, Nome: kworker/1:3-cgroup_destroy, Usuário: root
+PID: 182, Nome: kworker/R-uas, Usuário: root
+PID: 183, Nome: scsi_eh_3, Usuário: root
+PID: 184, Nome: kworker/R-scsi_, Usuário: root
+PID: 213, Nome: jbd2/sdc2-8, Usuário: root
+PID: 214, Nome: kworker/R-ext4-, Usuário: root
+PID: 253, Nome: systemd-journald, Usuário: root
+PID: 299, Nome: systemd-udevd, Usuário: root
+PID: 354, Nome: irq/134-mei_me, Usuário: root
+PID: 357, Nome: kworker/R-cfg80, Usuário: root
+PID: 381, Nome: irq/135-iwlwifi, Usuário: root
+PID: 414, Nome: kworker/u8:6-events_unbound, Usuário: root
+PID: 611, Nome: kworker/R-crypt, Usuário: root
+PID: 614, Nome: kworker/R-ttm, Usuário: root
+PID: 619, Nome: nv_queue, Usuário: root
+PID: 620, Nome: nv_queue, Usuário: root
+PID: 627, Nome: card1-crtc0, Usuário: root
+PID: 629, Nome: card1-crtc1, Usuário: root
+PID: 630, Nome: card1-crtc2, Usuário: root
+PID: 635, Nome: kworker/u9:1-hci0, Usuário: root
+PID: 709, Nome: nvidia-modeset/kthread_q, Usuário: root
+PID: 710, Nome: nvidia-modeset/deferred_close_kthread_q, Usuário: root
+PID: 806, Nome: kworker/u9:2-rb_allocator, Usuário: root
+PID: 838, Nome: systemd-oomd, Usuário: systemd-oom
+PID: 843, Nome: kworker/3:3-cgroup_destroy, Usuário: root
+PID: 845, Nome: systemd-resolved, Usuário: systemd-resolve
+PID: 846, Nome: systemd-timesyncd, Usuário: systemd-timesync
+PID: 892, Nome: accounts-daemon, Usuário: root
+PID: 893, Nome: acpid, Usuário: root
+PID: 896, Nome: avahi-daemon, Usuário: avahi
+PID: 897, Nome: bluetoothd, Usuário: root
+PID: 898, Nome: cron, Usuário: root
+PID: 900, Nome: dbus-daemon, Usuário: messagebus
+PID: 901, Nome: NetworkManager, Usuário: root
+PID: 907, Nome: irqbalance, Usuário: root
+PID: 911, Nome: networkd-dispat, Usuário: root
+PID: 914, Nome: polkitd, Usuário: root
+PID: 916, Nome: power-profiles-daemon, Usuário: root
+PID: 917, Nome: rsyslogd, Usuário: syslog
+PID: 924, Nome: snapd, Usuário: root
+PID: 926, Nome: switcheroo-control, Usuário: root
+PID: 927, Nome: systemd-logind, Usuário: root
+PID: 928, Nome: thermald, Usuário: root
+PID: 929, Nome: udisksd, Usuário: root
+PID: 930, Nome: wpa_supplicant, Usuário: root
+PID: 942, Nome: avahi-daemon, Usuário: avahi
+PID: 971, Nome: kworker/R-ipmi-, Usuário: root
+PID: 1005, Nome: ModemManager, Usuário: root
+PID: 1017, Nome: cupsd, Usuário: root
+PID: 1035, Nome: unattended-upgr, Usuário: root
+PID: 1046, Nome: systemd, Usuário: allysson
+PID: 1047, Nome: containerd, Usuário: root
+PID: 1056, Nome: (sd-pam), Usuário: allysson
+PID: 1095, Nome: rootlesskit, Usuário: allysson
+PID: 1097, Nome: pipewire, Usuário: allysson
+PID: 1098, Nome: pipewire-media-session, Usuário: allysson
+PID: 1099, Nome: pulseaudio, Usuário: allysson
+PID: 1113, Nome: rtkit-daemon, Usuário: rtkit
+PID: 1127, Nome: exe, Usuário: allysson
+PID: 1152, Nome: slirp4netns, Usuário: allysson
+PID: 1153, Nome: dbus-daemon, Usuário: allysson
+PID: 1162, Nome: dockerd, Usuário: allysson
+PID: 1195, Nome: krfcommd, Usuário: root
+PID: 1201, Nome: containerd, Usuário: allysson
+PID: 1212, Nome: xdg-document-portal, Usuário: allysson
+PID: 1216, Nome: xdg-permission-store, Usuário: allysson
+PID: 1223, Nome: fusermount3, Usuário: allysson
+PID: 1503, Nome: gdm3, Usuário: root
+PID: 1510, Nome: UVM global queue, Usuário: root
+PID: 1511, Nome: UVM deferred release queue, Usuário: root
+PID: 1512, Nome: UVM Tools Event Queue, Usuário: root
+PID: 1538, Nome: nvidia-persistenced, Usuário: nvidia-persistenced
+PID: 1557, Nome: gdm-session-worker, Usuário: root
+PID: 1610, Nome: gnome-keyring-daemon, Usuário: allysson
+PID: 1651, Nome: gdm-x-session, Usuário: allysson
+PID: 1654, Nome: Xorg, Usuário: allysson
+PID: 1742, Nome: rootlesskit-docker-proxy, Usuário: allysson
+PID: 1748, Nome: docker-proxy, Usuário: allysson
+PID: 1756, Nome: rootlesskit-docker-proxy, Usuário: allysson
+PID: 1764, Nome: docker-proxy, Usuário: allysson
+PID: 1776, Nome: rootlesskit-docker-proxy, Usuário: allysson
+PID: 1784, Nome: docker-proxy, Usuário: allysson
+PID: 1791, Nome: rootlesskit-docker-proxy, Usuário: allysson
+PID: 1798, Nome: docker-proxy, Usuário: allysson
+PID: 1851, Nome: containerd-shim-runc-v2, Usuário: allysson
+PID: 1852, Nome: containerd-shim-runc-v2, Usuário: allysson
+PID: 1860, Nome: containerd-shim-runc-v2, Usuário: allysson
+PID: 1908, Nome: containerd-shim-runc-v2, Usuário: allysson
+PID: 1950, Nome: docker-init, Usuário: allysson
+PID: 1953, Nome: redis-server, Usuário: 100998
+PID: 1960, Nome: nginx, Usuário: allysson
+PID: 1977, Nome: postgres, Usuário: 100998
+PID: 2104, Nome: bash, Usuário: allysson
+PID: 2130, Nome: gunicorn, Usuário: allysson
+PID: 2153, Nome: nginx, Usuário: 100032
+PID: 2154, Nome: nginx, Usuário: 100032
+PID: 2155, Nome: nginx, Usuário: 100032
+PID: 2156, Nome: nginx, Usuário: 100032
+PID: 2157, Nome: postgres, Usuário: 100998
+PID: 2158, Nome: postgres, Usuário: 100998
+PID: 2160, Nome: postgres, Usuário: 100998
+PID: 2161, Nome: postgres, Usuário: 100998
+PID: 2162, Nome: postgres, Usuário: 100998
+PID: 2185, Nome: gunicorn, Usuário: 100032
+PID: 2189, Nome: gunicorn, Usuário: 100032
+PID: 2190, Nome: gunicorn, Usuário: 100032
+PID: 2191, Nome: gunicorn, Usuário: 100032
+PID: 2213, Nome: gunicorn, Usuário: 100032
+PID: 2216, Nome: gunicorn, Usuário: 100032
+PID: 2217, Nome: gunicorn, Usuário: 100032
+PID: 2218, Nome: gunicorn, Usuário: 100032
+PID: 2306, Nome: snapd-desktop-integration, Usuário: allysson
+PID: 2391, Nome: cups-browsed, Usuário: root
+PID: 2401, Nome: kerneloops, Usuário: kernoops
+PID: 2414, Nome: kerneloops, Usuário: kernoops
+PID: 2419, Nome: snapd-desktop-integration, Usuário: allysson
+PID: 2457, Nome: gnome-session-binary, Usuário: allysson
+PID: 2547, Nome: at-spi-bus-launcher, Usuário: allysson
+PID: 2555, Nome: xdg-desktop-portal, Usuário: allysson
+PID: 2557, Nome: dbus-daemon, Usuário: allysson
+PID: 2562, Nome: xdg-desktop-portal-gnome, Usuário: allysson
+PID: 2591, Nome: gnome-session-ctl, Usuário: allysson
+PID: 2605, Nome: gvfsd, Usuário: allysson
+PID: 2614, Nome: gvfsd-fuse, Usuário: allysson
+PID: 2615, Nome: gnome-session-binary, Usuário: allysson
+PID: 2655, Nome: gnome-shell, Usuário: allysson
+PID: 2657, Nome: xdg-desktop-portal-gtk, Usuário: allysson
+PID: 2662, Nome: at-spi2-registryd, Usuário: allysson
+PID: 2723, Nome: gnome-shell-calendar-server, Usuário: allysson
+PID: 2730, Nome: evolution-source-registry, Usuário: allysson
+PID: 2735, Nome: upowerd, Usuário: root
+PID: 2738, Nome: goa-daemon, Usuário: allysson
+PID: 2746, Nome: evolution-calendar-factory, Usuário: allysson
+PID: 2747, Nome: gvfs-udisks2-volume-monitor, Usuário: allysson
+PID: 2763, Nome: goa-identity-service, Usuário: allysson
+PID: 2764, Nome: gvfs-afc-volume-monitor, Usuário: allysson
+PID: 2774, Nome: gvfs-mtp-volume-monitor, Usuário: allysson
+PID: 2783, Nome: dconf-service, Usuário: allysson
+PID: 2786, Nome: evolution-addressbook-factory, Usuário: allysson
+PID: 2788, Nome: gvfs-goa-volume-monitor, Usuário: allysson
+PID: 2793, Nome: gvfs-gphoto2-volume-monitor, Usuário: allysson
+PID: 2807, Nome: packagekitd, Usuário: root
+PID: 2814, Nome: gvfsd-trash, Usuário: allysson
+PID: 2825, Nome: gjs, Usuário: allysson
+PID: 2835, Nome: sh, Usuário: allysson
+PID: 2836, Nome: jbd2/sdc3-8, Usuário: root
+PID: 2837, Nome: gsd-a11y-settings, Usuário: allysson
+PID: 2838, Nome: kworker/R-ext4-, Usuário: root
+PID: 2840, Nome: ibus-daemon, Usuário: allysson
+PID: 2841, Nome: gsd-color, Usuário: allysson
+PID: 2845, Nome: gsd-datetime, Usuário: allysson
+PID: 2846, Nome: gsd-housekeeping, Usuário: allysson
+PID: 2847, Nome: gsd-keyboard, Usuário: allysson
+PID: 2851, Nome: gsd-media-keys, Usuário: allysson
+PID: 2852, Nome: gsd-power, Usuário: allysson
+PID: 2853, Nome: gsd-print-notifications, Usuário: allysson
+PID: 2855, Nome: gsd-rfkill, Usuário: allysson
+PID: 2856, Nome: gsd-screensaver-proxy, Usuário: allysson
+PID: 2857, Nome: gsd-sharing, Usuário: allysson
+PID: 2859, Nome: gsd-smartcard, Usuário: allysson
+PID: 2860, Nome: gsd-sound, Usuário: allysson
+PID: 2861, Nome: gsd-wacom, Usuário: allysson
+PID: 2863, Nome: gsd-xsettings, Usuário: allysson
+PID: 2908, Nome: ibus-dconf, Usuário: allysson
+PID: 2909, Nome: ibus-extension-gtk3, Usuário: allysson
+PID: 2911, Nome: ibus-x11, Usuário: allysson
+PID: 2914, Nome: ibus-portal, Usuário: allysson
+PID: 2926, Nome: evolution-alarm-notify, Usuário: allysson
+PID: 2931, Nome: gsd-printer, Usuário: allysson
+PID: 2934, Nome: gsd-disk-utility-notify, Usuário: allysson
+PID: 2992, Nome: colord, Usuário: colord
+PID: 3046, Nome: gjs, Usuário: allysson
+PID: 3057, Nome: ibus-engine-simple, Usuário: allysson
+PID: 3062, Nome: tracker-miner-fs-3, Usuário: allysson
+PID: 3090, Nome: gvfsd-metadata, Usuário: allysson
+PID: 3115, Nome: gjs, Usuário: allysson
+PID: 3167, Nome: update-notifier, Usuário: allysson
+PID: 3289, Nome: gnome-calendar, Usuário: allysson
+PID: 3290, Nome: seahorse, Usuário: allysson
+PID: 3292, Nome: gnome-terminal-server, Usuário: allysson
+PID: 3393, Nome: bash, Usuário: allysson
+PID: 3634, Nome: ruby, Usuário: allysson
+PID: 3650, Nome: bash, Usuário: allysson
+PID: 3895, Nome: npm start, Usuário: allysson
+PID: 3906, Nome: sh, Usuário: allysson
+PID: 3907, Nome: node, Usuário: allysson
+PID: 3914, Nome: node, Usuário: allysson
+PID: 3927, Nome: node, Usuário: allysson
+PID: 3928, Nome: node, Usuário: allysson
+PID: 3944, Nome: bash, Usuário: allysson
+PID: 4229, Nome: kworker/R-tls-s, Usuário: root
+PID: 10371, Nome: kworker/2:2-cgroup_destroy, Usuário: root
+PID: 10847, Nome: kworker/0:2-i915-unordered, Usuário: root
+PID: 11008, Nome: kworker/3:1-cgroup_destroy, Usuário: root
+PID: 12256, Nome: kworker/1:0-i915-unordered, Usuário: root
+PID: 16712, Nome: sudo, Usuário: allysson
+PID: 16713, Nome: sudo, Usuário: allysson
+PID: 16714, Nome: python3, Usuário: root
+
+=== Dados do CodeCarbon ===
+Emissões de carbono: 7.4351281608641e-05 kg
+Tempo de execução: 187.14482402801514 segundos
+
+=== Log do CodeCarbon ===
+2025-03-15 11:54:27,673 - codecarbon  : INFO     Energy consumed for RAM : 0.000002 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:27,673 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:27,674 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000007 kWh. Total CPU Power : 12.510436161033807 W
+2025-03-15 11:54:27,674 - codecarbon  : INFO     0.000009 kWh of electricity used since the beginning.
+2025-03-15 11:54:29,674 - codecarbon  : INFO     Energy consumed for RAM : 0.000003 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:29,674 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:29,675 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000013 kWh. Total CPU Power : 11.753590249319313 W
+2025-03-15 11:54:29,675 - codecarbon  : INFO     0.000017 kWh of electricity used since the beginning.
+2025-03-15 11:54:31,674 - codecarbon  : INFO     Energy consumed for RAM : 0.000005 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:31,674 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:31,675 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000020 kWh. Total CPU Power : 11.953695942358292 W
+2025-03-15 11:54:31,675 - codecarbon  : INFO     0.000025 kWh of electricity used since the beginning.
+2025-03-15 11:54:33,675 - codecarbon  : INFO     Energy consumed for RAM : 0.000006 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:33,675 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:33,675 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000027 kWh. Total CPU Power : 11.939750613268401 W
+2025-03-15 11:54:33,676 - codecarbon  : INFO     0.000033 kWh of electricity used since the beginning.
+2025-03-15 11:54:35,675 - codecarbon  : INFO     Energy consumed for RAM : 0.000008 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:35,675 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:35,676 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000033 kWh. Total CPU Power : 11.586222764048216 W
+2025-03-15 11:54:35,676 - codecarbon  : INFO     0.000041 kWh of electricity used since the beginning.
+2025-03-15 11:54:37,676 - codecarbon  : INFO     Energy consumed for RAM : 0.000010 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:37,676 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:37,677 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000040 kWh. Total CPU Power : 11.901249354345671 W
+2025-03-15 11:54:37,677 - codecarbon  : INFO     0.000049 kWh of electricity used since the beginning.
+2025-03-15 11:54:39,677 - codecarbon  : INFO     Energy consumed for RAM : 0.000011 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:39,677 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:39,677 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000046 kWh. Total CPU Power : 11.924995698504713 W
+2025-03-15 11:54:39,677 - codecarbon  : INFO     0.000058 kWh of electricity used since the beginning.
+2025-03-15 11:54:41,677 - codecarbon  : INFO     Energy consumed for RAM : 0.000013 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:41,678 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:41,678 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000053 kWh. Total CPU Power : 11.595439800121696 W
+2025-03-15 11:54:41,678 - codecarbon  : INFO     0.000066 kWh of electricity used since the beginning.
+2025-03-15 11:54:41,680 - codecarbon  : INFO     0.000403 g.CO2eq/s mean an estimation of 12.712716167845997 kg.CO2eq/year
+2025-03-15 11:54:43,678 - codecarbon  : INFO     Energy consumed for RAM : 0.000014 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:43,678 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:43,679 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000059 kWh. Total CPU Power : 11.90222207658117 W
+2025-03-15 11:54:43,679 - codecarbon  : INFO     0.000074 kWh of electricity used since the beginning.
+2025-03-15 11:54:45,679 - codecarbon  : INFO     Energy consumed for RAM : 0.000016 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:45,679 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:45,679 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000066 kWh. Total CPU Power : 11.9300925605641 W
+2025-03-15 11:54:45,680 - codecarbon  : INFO     0.000082 kWh of electricity used since the beginning.
+2025-03-15 11:54:47,679 - codecarbon  : INFO     Energy consumed for RAM : 0.000018 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:47,680 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:47,680 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000073 kWh. Total CPU Power : 11.905666148782146 W
+2025-03-15 11:54:47,680 - codecarbon  : INFO     0.000090 kWh of electricity used since the beginning.
+2025-03-15 11:54:49,680 - codecarbon  : INFO     Energy consumed for RAM : 0.000019 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:49,680 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:49,681 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000079 kWh. Total CPU Power : 11.95128306811131 W
+2025-03-15 11:54:49,681 - codecarbon  : INFO     0.000098 kWh of electricity used since the beginning.
+2025-03-15 11:54:51,681 - codecarbon  : INFO     Energy consumed for RAM : 0.000021 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:51,681 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:51,682 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000086 kWh. Total CPU Power : 11.948694873591146 W
+2025-03-15 11:54:51,682 - codecarbon  : INFO     0.000107 kWh of electricity used since the beginning.
+2025-03-15 11:54:53,682 - codecarbon  : INFO     Energy consumed for RAM : 0.000022 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:53,682 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:53,682 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000093 kWh. Total CPU Power : 11.935986232883797 W
+2025-03-15 11:54:53,682 - codecarbon  : INFO     0.000115 kWh of electricity used since the beginning.
+2025-03-15 11:54:55,682 - codecarbon  : INFO     Energy consumed for RAM : 0.000024 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:55,683 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:55,683 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000099 kWh. Total CPU Power : 11.951903818226944 W
+2025-03-15 11:54:55,683 - codecarbon  : INFO     0.000123 kWh of electricity used since the beginning.
+2025-03-15 11:54:57,683 - codecarbon  : INFO     Energy consumed for RAM : 0.000025 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:57,683 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:57,684 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000106 kWh. Total CPU Power : 11.994356700124229 W
+2025-03-15 11:54:57,684 - codecarbon  : INFO     0.000131 kWh of electricity used since the beginning.
+2025-03-15 11:54:57,685 - codecarbon  : INFO     0.000404 g.CO2eq/s mean an estimation of 12.751115945869257 kg.CO2eq/year
+2025-03-15 11:54:59,683 - codecarbon  : INFO     Energy consumed for RAM : 0.000027 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:54:59,683 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:54:59,684 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000113 kWh. Total CPU Power : 11.937876889120432 W
+2025-03-15 11:54:59,684 - codecarbon  : INFO     0.000140 kWh of electricity used since the beginning.
+2025-03-15 11:55:01,684 - codecarbon  : INFO     Energy consumed for RAM : 0.000029 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:01,684 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:01,685 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000119 kWh. Total CPU Power : 11.978622523595035 W
+2025-03-15 11:55:01,685 - codecarbon  : INFO     0.000148 kWh of electricity used since the beginning.
+2025-03-15 11:55:03,684 - codecarbon  : INFO     Energy consumed for RAM : 0.000030 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:03,685 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:03,685 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000126 kWh. Total CPU Power : 11.415416526345146 W
+2025-03-15 11:55:03,685 - codecarbon  : INFO     0.000156 kWh of electricity used since the beginning.
+2025-03-15 11:55:05,685 - codecarbon  : INFO     Energy consumed for RAM : 0.000032 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:05,686 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:05,686 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000132 kWh. Total CPU Power : 11.55629951456869 W
+2025-03-15 11:55:05,686 - codecarbon  : INFO     0.000164 kWh of electricity used since the beginning.
+2025-03-15 11:55:07,686 - codecarbon  : INFO     Energy consumed for RAM : 0.000033 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:07,686 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:07,687 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000139 kWh. Total CPU Power : 11.891991769522742 W
+2025-03-15 11:55:07,687 - codecarbon  : INFO     0.000172 kWh of electricity used since the beginning.
+2025-03-15 11:55:09,687 - codecarbon  : INFO     Energy consumed for RAM : 0.000035 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:09,687 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:09,687 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000145 kWh. Total CPU Power : 11.920305950142609 W
+2025-03-15 11:55:09,687 - codecarbon  : INFO     0.000180 kWh of electricity used since the beginning.
+2025-03-15 11:55:11,687 - codecarbon  : INFO     Energy consumed for RAM : 0.000037 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:11,688 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:11,688 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000152 kWh. Total CPU Power : 11.547119562700223 W
+2025-03-15 11:55:11,688 - codecarbon  : INFO     0.000188 kWh of electricity used since the beginning.
+2025-03-15 11:55:13,688 - codecarbon  : INFO     Energy consumed for RAM : 0.000038 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:13,689 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:13,689 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000158 kWh. Total CPU Power : 11.626411086679179 W
+2025-03-15 11:55:13,689 - codecarbon  : INFO     0.000196 kWh of electricity used since the beginning.
+2025-03-15 11:55:13,691 - codecarbon  : INFO     0.000399 g.CO2eq/s mean an estimation of 12.573809831525411 kg.CO2eq/year
+2025-03-15 11:55:15,689 - codecarbon  : INFO     Energy consumed for RAM : 0.000040 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:15,689 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:15,690 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000165 kWh. Total CPU Power : 11.782306697921367 W
+2025-03-15 11:55:15,690 - codecarbon  : INFO     0.000204 kWh of electricity used since the beginning.
+2025-03-15 11:55:17,690 - codecarbon  : INFO     Energy consumed for RAM : 0.000041 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:17,690 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:17,690 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000171 kWh. Total CPU Power : 11.7811459726047 W
+2025-03-15 11:55:17,690 - codecarbon  : INFO     0.000213 kWh of electricity used since the beginning.
+2025-03-15 11:55:19,690 - codecarbon  : INFO     Energy consumed for RAM : 0.000043 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:19,691 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:19,691 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000178 kWh. Total CPU Power : 11.832136542238434 W
+2025-03-15 11:55:19,691 - codecarbon  : INFO     0.000221 kWh of electricity used since the beginning.
+2025-03-15 11:55:21,691 - codecarbon  : INFO     Energy consumed for RAM : 0.000045 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:21,691 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:21,692 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000184 kWh. Total CPU Power : 11.348635585552854 W
+2025-03-15 11:55:21,692 - codecarbon  : INFO     0.000229 kWh of electricity used since the beginning.
+2025-03-15 11:55:23,692 - codecarbon  : INFO     Energy consumed for RAM : 0.000046 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:23,692 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:23,693 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000191 kWh. Total CPU Power : 11.796031684309837 W
+2025-03-15 11:55:23,693 - codecarbon  : INFO     0.000237 kWh of electricity used since the beginning.
+2025-03-15 11:55:25,693 - codecarbon  : INFO     Energy consumed for RAM : 0.000048 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:25,693 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:25,693 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000197 kWh. Total CPU Power : 11.435930577654126 W
+2025-03-15 11:55:25,693 - codecarbon  : INFO     0.000245 kWh of electricity used since the beginning.
+2025-03-15 11:55:27,693 - codecarbon  : INFO     Energy consumed for RAM : 0.000049 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:27,694 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:27,694 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000203 kWh. Total CPU Power : 11.610883804920775 W
+2025-03-15 11:55:27,694 - codecarbon  : INFO     0.000253 kWh of electricity used since the beginning.
+2025-03-15 11:55:29,694 - codecarbon  : INFO     Energy consumed for RAM : 0.000051 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:29,695 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:29,695 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000210 kWh. Total CPU Power : 11.78056182131651 W
+2025-03-15 11:55:29,695 - codecarbon  : INFO     0.000261 kWh of electricity used since the beginning.
+2025-03-15 11:55:29,697 - codecarbon  : INFO     0.000397 g.CO2eq/s mean an estimation of 12.519591693552538 kg.CO2eq/year
+2025-03-15 11:55:31,695 - codecarbon  : INFO     Energy consumed for RAM : 0.000053 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:31,695 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:31,695 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000216 kWh. Total CPU Power : 11.47557360274776 W
+2025-03-15 11:55:31,696 - codecarbon  : INFO     0.000269 kWh of electricity used since the beginning.
+2025-03-15 11:55:33,695 - codecarbon  : INFO     Energy consumed for RAM : 0.000054 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:33,695 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:33,696 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000223 kWh. Total CPU Power : 11.618804189306141 W
+2025-03-15 11:55:33,696 - codecarbon  : INFO     0.000277 kWh of electricity used since the beginning.
+2025-03-15 11:55:35,695 - codecarbon  : INFO     Energy consumed for RAM : 0.000056 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:35,696 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:35,696 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000229 kWh. Total CPU Power : 11.585685296335733 W
+2025-03-15 11:55:35,696 - codecarbon  : INFO     0.000285 kWh of electricity used since the beginning.
+2025-03-15 11:55:37,696 - codecarbon  : INFO     Energy consumed for RAM : 0.000057 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:37,696 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:37,697 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000236 kWh. Total CPU Power : 11.772159427984374 W
+2025-03-15 11:55:37,697 - codecarbon  : INFO     0.000293 kWh of electricity used since the beginning.
+2025-03-15 11:55:39,697 - codecarbon  : INFO     Energy consumed for RAM : 0.000059 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:39,697 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:39,697 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000242 kWh. Total CPU Power : 11.420221772494973 W
+2025-03-15 11:55:39,697 - codecarbon  : INFO     0.000301 kWh of electricity used since the beginning.
+2025-03-15 11:55:41,697 - codecarbon  : INFO     Energy consumed for RAM : 0.000060 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:41,698 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:41,698 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000249 kWh. Total CPU Power : 11.812044620066814 W
+2025-03-15 11:55:41,698 - codecarbon  : INFO     0.000309 kWh of electricity used since the beginning.
+2025-03-15 11:55:43,698 - codecarbon  : INFO     Energy consumed for RAM : 0.000062 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:43,698 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:43,699 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000255 kWh. Total CPU Power : 11.43668619930238 W
+2025-03-15 11:55:43,699 - codecarbon  : INFO     0.000317 kWh of electricity used since the beginning.
+2025-03-15 11:55:45,699 - codecarbon  : INFO     Energy consumed for RAM : 0.000064 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:45,699 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:45,699 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000262 kWh. Total CPU Power : 11.78528866031275 W
+2025-03-15 11:55:45,699 - codecarbon  : INFO     0.000325 kWh of electricity used since the beginning.
+2025-03-15 11:55:45,701 - codecarbon  : INFO     0.000395 g.CO2eq/s mean an estimation of 12.469850319284177 kg.CO2eq/year
+2025-03-15 11:55:47,700 - codecarbon  : INFO     Energy consumed for RAM : 0.000065 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:47,700 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:47,700 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000268 kWh. Total CPU Power : 11.610208745228032 W
+2025-03-15 11:55:47,700 - codecarbon  : INFO     0.000333 kWh of electricity used since the beginning.
+2025-03-15 11:55:49,700 - codecarbon  : INFO     Energy consumed for RAM : 0.000067 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:49,700 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:49,701 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000274 kWh. Total CPU Power : 11.472937207779461 W
+2025-03-15 11:55:49,701 - codecarbon  : INFO     0.000341 kWh of electricity used since the beginning.
+2025-03-15 11:55:51,700 - codecarbon  : INFO     Energy consumed for RAM : 0.000068 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:51,700 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:51,701 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000281 kWh. Total CPU Power : 11.768116852519764 W
+2025-03-15 11:55:51,701 - codecarbon  : INFO     0.000349 kWh of electricity used since the beginning.
+2025-03-15 11:55:53,701 - codecarbon  : INFO     Energy consumed for RAM : 0.000070 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:53,701 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:53,702 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000287 kWh. Total CPU Power : 11.607349698403315 W
+2025-03-15 11:55:53,702 - codecarbon  : INFO     0.000357 kWh of electricity used since the beginning.
+2025-03-15 11:55:55,702 - codecarbon  : INFO     Energy consumed for RAM : 0.000072 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:55,702 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:55,702 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000294 kWh. Total CPU Power : 11.76740527944519 W
+2025-03-15 11:55:55,702 - codecarbon  : INFO     0.000366 kWh of electricity used since the beginning.
+2025-03-15 11:55:57,703 - codecarbon  : INFO     Energy consumed for RAM : 0.000073 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:57,703 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:57,703 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000301 kWh. Total CPU Power : 11.818617974748175 W
+2025-03-15 11:55:57,703 - codecarbon  : INFO     0.000374 kWh of electricity used since the beginning.
+2025-03-15 11:55:59,703 - codecarbon  : INFO     Energy consumed for RAM : 0.000075 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:55:59,704 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:55:59,704 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000307 kWh. Total CPU Power : 11.605122126739976 W
+2025-03-15 11:55:59,704 - codecarbon  : INFO     0.000382 kWh of electricity used since the beginning.
+2025-03-15 11:56:01,704 - codecarbon  : INFO     Energy consumed for RAM : 0.000076 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:01,704 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:01,705 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000314 kWh. Total CPU Power : 11.847387251581779 W
+2025-03-15 11:56:01,705 - codecarbon  : INFO     0.000390 kWh of electricity used since the beginning.
+2025-03-15 11:56:01,706 - codecarbon  : INFO     0.000397 g.CO2eq/s mean an estimation of 12.533873798138172 kg.CO2eq/year
+2025-03-15 11:56:03,705 - codecarbon  : INFO     Energy consumed for RAM : 0.000078 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:03,705 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:03,706 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000320 kWh. Total CPU Power : 11.776855548536185 W
+2025-03-15 11:56:03,706 - codecarbon  : INFO     0.000398 kWh of electricity used since the beginning.
+2025-03-15 11:56:05,706 - codecarbon  : INFO     Energy consumed for RAM : 0.000080 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:05,706 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:05,706 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000327 kWh. Total CPU Power : 11.592597848225 W
+2025-03-15 11:56:05,706 - codecarbon  : INFO     0.000406 kWh of electricity used since the beginning.
+2025-03-15 11:56:07,707 - codecarbon  : INFO     Energy consumed for RAM : 0.000081 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:07,707 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:07,707 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000333 kWh. Total CPU Power : 11.621535269560274 W
+2025-03-15 11:56:07,707 - codecarbon  : INFO     0.000414 kWh of electricity used since the beginning.
+2025-03-15 11:56:09,707 - codecarbon  : INFO     Energy consumed for RAM : 0.000083 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:09,707 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:09,708 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000339 kWh. Total CPU Power : 11.09747657338967 W
+2025-03-15 11:56:09,708 - codecarbon  : INFO     0.000422 kWh of electricity used since the beginning.
+2025-03-15 11:56:11,708 - codecarbon  : INFO     Energy consumed for RAM : 0.000084 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:11,708 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:11,708 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000346 kWh. Total CPU Power : 11.637576897340436 W
+2025-03-15 11:56:11,708 - codecarbon  : INFO     0.000430 kWh of electricity used since the beginning.
+2025-03-15 11:56:13,709 - codecarbon  : INFO     Energy consumed for RAM : 0.000086 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:13,709 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:13,709 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000352 kWh. Total CPU Power : 11.463633646536568 W
+2025-03-15 11:56:13,709 - codecarbon  : INFO     0.000438 kWh of electricity used since the beginning.
+2025-03-15 11:56:15,709 - codecarbon  : INFO     Energy consumed for RAM : 0.000088 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:15,710 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:15,710 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000358 kWh. Total CPU Power : 11.421940561688103 W
+2025-03-15 11:56:15,710 - codecarbon  : INFO     0.000446 kWh of electricity used since the beginning.
+2025-03-15 11:56:17,710 - codecarbon  : INFO     Energy consumed for RAM : 0.000089 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:17,711 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:17,711 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000365 kWh. Total CPU Power : 12.115436618153666 W
+2025-03-15 11:56:17,711 - codecarbon  : INFO     0.000454 kWh of electricity used since the beginning.
+2025-03-15 11:56:17,713 - codecarbon  : INFO     0.000395 g.CO2eq/s mean an estimation of 12.450589949957383 kg.CO2eq/year
+2025-03-15 11:56:19,711 - codecarbon  : INFO     Energy consumed for RAM : 0.000091 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:19,711 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:19,711 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000371 kWh. Total CPU Power : 11.478324740408832 W
+2025-03-15 11:56:19,711 - codecarbon  : INFO     0.000462 kWh of electricity used since the beginning.
+2025-03-15 11:56:21,711 - codecarbon  : INFO     Energy consumed for RAM : 0.000092 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:21,711 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:21,712 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000378 kWh. Total CPU Power : 11.819295810991232 W
+2025-03-15 11:56:21,712 - codecarbon  : INFO     0.000470 kWh of electricity used since the beginning.
+2025-03-15 11:56:23,711 - codecarbon  : INFO     Energy consumed for RAM : 0.000094 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:23,712 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:23,712 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000385 kWh. Total CPU Power : 11.806842412771417 W
+2025-03-15 11:56:23,712 - codecarbon  : INFO     0.000478 kWh of electricity used since the beginning.
+2025-03-15 11:56:25,712 - codecarbon  : INFO     Energy consumed for RAM : 0.000095 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:25,713 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:25,713 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000391 kWh. Total CPU Power : 11.62485524839106 W
+2025-03-15 11:56:25,713 - codecarbon  : INFO     0.000487 kWh of electricity used since the beginning.
+2025-03-15 11:56:27,713 - codecarbon  : INFO     Energy consumed for RAM : 0.000097 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:27,713 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:27,714 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000397 kWh. Total CPU Power : 11.473508005761113 W
+2025-03-15 11:56:27,714 - codecarbon  : INFO     0.000494 kWh of electricity used since the beginning.
+2025-03-15 11:56:29,713 - codecarbon  : INFO     Energy consumed for RAM : 0.000099 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:29,714 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:29,714 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000404 kWh. Total CPU Power : 11.770259019549934 W
+2025-03-15 11:56:29,714 - codecarbon  : INFO     0.000503 kWh of electricity used since the beginning.
+2025-03-15 11:56:31,714 - codecarbon  : INFO     Energy consumed for RAM : 0.000100 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:31,714 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:31,715 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000410 kWh. Total CPU Power : 11.761479435432998 W
+2025-03-15 11:56:31,715 - codecarbon  : INFO     0.000511 kWh of electricity used since the beginning.
+2025-03-15 11:56:33,715 - codecarbon  : INFO     Energy consumed for RAM : 0.000102 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:33,715 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:33,716 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000417 kWh. Total CPU Power : 11.784236892563472 W
+2025-03-15 11:56:33,716 - codecarbon  : INFO     0.000519 kWh of electricity used since the beginning.
+2025-03-15 11:56:33,717 - codecarbon  : INFO     0.000397 g.CO2eq/s mean an estimation of 12.535498036221014 kg.CO2eq/year
+2025-03-15 11:56:35,716 - codecarbon  : INFO     Energy consumed for RAM : 0.000103 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:35,716 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:35,716 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000423 kWh. Total CPU Power : 11.449684016041976 W
+2025-03-15 11:56:35,716 - codecarbon  : INFO     0.000527 kWh of electricity used since the beginning.
+2025-03-15 11:56:37,717 - codecarbon  : INFO     Energy consumed for RAM : 0.000105 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:37,717 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:37,717 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000430 kWh. Total CPU Power : 11.605022361050139 W
+2025-03-15 11:56:37,717 - codecarbon  : INFO     0.000535 kWh of electricity used since the beginning.
+2025-03-15 11:56:39,717 - codecarbon  : INFO     Energy consumed for RAM : 0.000107 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:39,717 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:39,718 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000436 kWh. Total CPU Power : 11.782447906622798 W
+2025-03-15 11:56:39,718 - codecarbon  : INFO     0.000543 kWh of electricity used since the beginning.
+2025-03-15 11:56:41,718 - codecarbon  : INFO     Energy consumed for RAM : 0.000108 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:41,718 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:41,719 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000443 kWh. Total CPU Power : 11.638119416889301 W
+2025-03-15 11:56:41,719 - codecarbon  : INFO     0.000551 kWh of electricity used since the beginning.
+2025-03-15 11:56:43,719 - codecarbon  : INFO     Energy consumed for RAM : 0.000110 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:43,719 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:43,719 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000449 kWh. Total CPU Power : 11.77077323748695 W
+2025-03-15 11:56:43,719 - codecarbon  : INFO     0.000559 kWh of electricity used since the beginning.
+2025-03-15 11:56:45,719 - codecarbon  : INFO     Energy consumed for RAM : 0.000111 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:45,720 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:45,720 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000456 kWh. Total CPU Power : 11.431613659519977 W
+2025-03-15 11:56:45,720 - codecarbon  : INFO     0.000567 kWh of electricity used since the beginning.
+2025-03-15 11:56:47,720 - codecarbon  : INFO     Energy consumed for RAM : 0.000113 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:47,721 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:47,721 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000462 kWh. Total CPU Power : 11.277458622801744 W
+2025-03-15 11:56:47,721 - codecarbon  : INFO     0.000575 kWh of electricity used since the beginning.
+2025-03-15 11:56:49,721 - codecarbon  : INFO     Energy consumed for RAM : 0.000115 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:49,721 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:49,722 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000468 kWh. Total CPU Power : 11.278627419346265 W
+2025-03-15 11:56:49,722 - codecarbon  : INFO     0.000583 kWh of electricity used since the beginning.
+2025-03-15 11:56:49,723 - codecarbon  : INFO     0.000393 g.CO2eq/s mean an estimation of 12.397594887495126 kg.CO2eq/year
+2025-03-15 11:56:51,722 - codecarbon  : INFO     Energy consumed for RAM : 0.000116 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:51,722 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:51,723 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000475 kWh. Total CPU Power : 11.608937623366426 W
+2025-03-15 11:56:51,723 - codecarbon  : INFO     0.000591 kWh of electricity used since the beginning.
+2025-03-15 11:56:53,722 - codecarbon  : INFO     Energy consumed for RAM : 0.000118 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:53,722 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:53,723 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000481 kWh. Total CPU Power : 11.620735269425005 W
+2025-03-15 11:56:53,723 - codecarbon  : INFO     0.000599 kWh of electricity used since the beginning.
+2025-03-15 11:56:55,723 - codecarbon  : INFO     Energy consumed for RAM : 0.000119 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:55,723 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:55,724 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000488 kWh. Total CPU Power : 11.755381117889353 W
+2025-03-15 11:56:55,724 - codecarbon  : INFO     0.000607 kWh of electricity used since the beginning.
+2025-03-15 11:56:57,724 - codecarbon  : INFO     Energy consumed for RAM : 0.000121 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:57,724 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:57,724 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000494 kWh. Total CPU Power : 11.427211977553446 W
+2025-03-15 11:56:57,724 - codecarbon  : INFO     0.000615 kWh of electricity used since the beginning.
+2025-03-15 11:56:59,724 - codecarbon  : INFO     Energy consumed for RAM : 0.000123 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:56:59,725 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:56:59,725 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000501 kWh. Total CPU Power : 11.770786982740441 W
+2025-03-15 11:56:59,725 - codecarbon  : INFO     0.000623 kWh of electricity used since the beginning.
+2025-03-15 11:57:01,725 - codecarbon  : INFO     Energy consumed for RAM : 0.000124 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:01,725 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:01,726 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000507 kWh. Total CPU Power : 11.665363549739144 W
+2025-03-15 11:57:01,726 - codecarbon  : INFO     0.000631 kWh of electricity used since the beginning.
+2025-03-15 11:57:03,726 - codecarbon  : INFO     Energy consumed for RAM : 0.000126 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:03,726 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:03,727 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000513 kWh. Total CPU Power : 11.405268994969394 W
+2025-03-15 11:57:03,727 - codecarbon  : INFO     0.000639 kWh of electricity used since the beginning.
+2025-03-15 11:57:05,727 - codecarbon  : INFO     Energy consumed for RAM : 0.000127 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:05,727 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:05,728 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000520 kWh. Total CPU Power : 11.242908925640895 W
+2025-03-15 11:57:05,728 - codecarbon  : INFO     0.000647 kWh of electricity used since the beginning.
+2025-03-15 11:57:05,729 - codecarbon  : INFO     0.000394 g.CO2eq/s mean an estimation of 12.425710537976174 kg.CO2eq/year
+2025-03-15 11:57:07,728 - codecarbon  : INFO     Energy consumed for RAM : 0.000129 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:07,728 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:07,728 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000526 kWh. Total CPU Power : 11.599273943443691 W
+2025-03-15 11:57:07,728 - codecarbon  : INFO     0.000655 kWh of electricity used since the beginning.
+2025-03-15 11:57:09,728 - codecarbon  : INFO     Energy consumed for RAM : 0.000131 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:09,728 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:09,729 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000533 kWh. Total CPU Power : 11.584963439568456 W
+2025-03-15 11:57:09,729 - codecarbon  : INFO     0.000663 kWh of electricity used since the beginning.
+2025-03-15 11:57:11,729 - codecarbon  : INFO     Energy consumed for RAM : 0.000132 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:11,729 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:11,729 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000539 kWh. Total CPU Power : 11.799503739533794 W
+2025-03-15 11:57:11,730 - codecarbon  : INFO     0.000671 kWh of electricity used since the beginning.
+2025-03-15 11:57:13,730 - codecarbon  : INFO     Energy consumed for RAM : 0.000134 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:13,730 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:13,730 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000545 kWh. Total CPU Power : 11.398172001872693 W
+2025-03-15 11:57:13,730 - codecarbon  : INFO     0.000679 kWh of electricity used since the beginning.
+2025-03-15 11:57:15,730 - codecarbon  : INFO     Energy consumed for RAM : 0.000135 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:15,730 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:15,731 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000552 kWh. Total CPU Power : 11.758105526665302 W
+2025-03-15 11:57:15,731 - codecarbon  : INFO     0.000687 kWh of electricity used since the beginning.
+2025-03-15 11:57:17,731 - codecarbon  : INFO     Energy consumed for RAM : 0.000137 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:17,731 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:17,732 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000558 kWh. Total CPU Power : 11.578506593565258 W
+2025-03-15 11:57:17,732 - codecarbon  : INFO     0.000695 kWh of electricity used since the beginning.
+2025-03-15 11:57:19,731 - codecarbon  : INFO     Energy consumed for RAM : 0.000138 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:19,732 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:19,732 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000565 kWh. Total CPU Power : 11.775006802843038 W
+2025-03-15 11:57:19,732 - codecarbon  : INFO     0.000703 kWh of electricity used since the beginning.
+2025-03-15 11:57:21,732 - codecarbon  : INFO     Energy consumed for RAM : 0.000140 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:21,733 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:21,733 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000571 kWh. Total CPU Power : 11.804774613519681 W
+2025-03-15 11:57:21,733 - codecarbon  : INFO     0.000712 kWh of electricity used since the beginning.
+2025-03-15 11:57:21,735 - codecarbon  : INFO     0.000397 g.CO2eq/s mean an estimation of 12.512017927363912 kg.CO2eq/year
+2025-03-15 11:57:23,733 - codecarbon  : INFO     Energy consumed for RAM : 0.000142 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:23,733 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:23,734 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000578 kWh. Total CPU Power : 11.584513452212748 W
+2025-03-15 11:57:23,734 - codecarbon  : INFO     0.000720 kWh of electricity used since the beginning.
+2025-03-15 11:57:25,734 - codecarbon  : INFO     Energy consumed for RAM : 0.000143 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:25,734 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:25,735 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000584 kWh. Total CPU Power : 11.416903858868798 W
+2025-03-15 11:57:25,735 - codecarbon  : INFO     0.000728 kWh of electricity used since the beginning.
+2025-03-15 11:57:27,735 - codecarbon  : INFO     Energy consumed for RAM : 0.000145 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:27,735 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:27,736 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000591 kWh. Total CPU Power : 11.595690481808042 W
+2025-03-15 11:57:27,736 - codecarbon  : INFO     0.000736 kWh of electricity used since the beginning.
+2025-03-15 11:57:29,736 - codecarbon  : INFO     Energy consumed for RAM : 0.000146 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:29,736 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:29,736 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000597 kWh. Total CPU Power : 11.574189292344222 W
+2025-03-15 11:57:29,736 - codecarbon  : INFO     0.000744 kWh of electricity used since the beginning.
+2025-03-15 11:57:31,736 - codecarbon  : INFO     Energy consumed for RAM : 0.000148 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:31,737 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:31,737 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000604 kWh. Total CPU Power : 11.589209507370335 W
+2025-03-15 11:57:31,737 - codecarbon  : INFO     0.000752 kWh of electricity used since the beginning.
+2025-03-15 11:57:32,817 - codecarbon  : INFO     Energy consumed for RAM : 0.000149 kWh. RAM Power : 2.86547327041626 W
+2025-03-15 11:57:32,818 - codecarbon  : INFO     Energy consumed for all GPUs : 0.000000 kWh. Total GPU Power : 0 W
+2025-03-15 11:57:32,818 - codecarbon  : INFO     Energy consumed for all CPUs : 0.000607 kWh. Total CPU Power : 11.775715785180159 W
+2025-03-15 11:57:32,818 - codecarbon  : INFO     0.000756 kWh of electricity used since the beginning.
