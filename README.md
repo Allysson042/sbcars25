@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16763281.svg)](https://doi.org/10.5281/zenodo.16763281)
 # Reproduction Package: Energy, Time, and Carbon Efficiency Study
 
 This repository contains all scripts, configurations, and artifacts necessary to reproduce the experiments from the paper "A Comparative Study on Energy, Time, and Carbon Efficiency of Web Application Technology Stacks". Below you will find instructions for setting up and running the tests.
