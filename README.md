@@ -2,8 +2,6 @@
 
 This repository contains all scripts, configurations, and artifacts necessary to reproduce the experiments from the paper "A Comparative Study on Energy, Time, and Carbon Efficiency of Web Application Technology Stacks". Below you will find instructions for setting up and running the tests.
 
-## ⚠️ The Anonymous 4Open Science visualization had a limitation that prevented the scenario source code from being directly displayed. To properly view all content, download the ZIP file (Download Repository).
-
 ## 📁 Repository Structure
 
 ### `/cypress` - Automated testing files
